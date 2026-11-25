@@ -1,0 +1,6 @@
+{
+  "name": "LumaGrid Studio Blueprint",
+  "description": "Next-generation native Android widget app concept, interactive Widget Studio simulator, Play Store copywriting suite, and 6-month product strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
